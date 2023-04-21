@@ -1,0 +1,15 @@
+label {
+  width: 220px;
+  vertical-align: top;
+  display: inline-block;
+}
+
+fieldset {
+  margin-top: 6px;
+  margin-bottom: 0px;
+}
+
+div {
+  margin: 6px 0;
+}
+
